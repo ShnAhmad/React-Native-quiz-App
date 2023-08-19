@@ -1,5 +1,5 @@
 # Quizet
-Features 
+-  Features 
 user can choose the difficulty level
  1 Easy
  2 Medium
@@ -12,7 +12,7 @@ user can choose the catogory
  5 Sports
  6 sccience and Nature
  7 politics
-[Home Screen](assets/Picture1.jpg)/n
+- [Home Screen](assets/Picture1.jpg)
 [Quiz Screen](assets/Picture2.jpg)/n
 [Result screen](assets/Picture3.jpg)
 
