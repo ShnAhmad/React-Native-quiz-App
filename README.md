@@ -12,3 +12,4 @@ user can choose the catogory
  5 Sports
  6 sccience and Nature
  7 politics
+[Contribution guidelines for this project](assests/Picture1.jpg)
