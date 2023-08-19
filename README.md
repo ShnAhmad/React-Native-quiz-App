@@ -13,6 +13,6 @@
  6 sccience and Nature
  7 politics
 - [Home Screen](assets/Picture1.jpg)
-- [Quiz Screen](assets/Picture2.jpg)/n
+- [Quiz Screen](assets/Picture2.jpg)
 - [Result screen](assets/Picture3.jpg)
 
